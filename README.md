@@ -1,2 +1,3 @@
 # small-program
-Pretend to use
+Pretending to use
+I'm a giser. 
